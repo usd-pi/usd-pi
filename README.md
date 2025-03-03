@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+USD Pi is a next-generation decentralized layer1 high-speed blockchain for artificial intelligence.
 <!--
 **usd-pi/usd-pi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
